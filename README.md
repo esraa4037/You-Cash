@@ -1,2 +1,2 @@
 # You-Cash
-You Cash Is An E-Wallet Provided By YouCash To Make Your Life, Financial Transactions & Errands Easier From Anywhere, Anytime With Just One Click! 
+You-Cash is an E-wallet makes your life, financial transactions & errands easier from anywhere, anytime with just one click! 
